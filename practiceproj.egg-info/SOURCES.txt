@@ -1,0 +1,7 @@
+README.md
+setup.py
+practiceproj.egg-info/PKG-INFO
+practiceproj.egg-info/SOURCES.txt
+practiceproj.egg-info/dependency_links.txt
+practiceproj.egg-info/requires.txt
+practiceproj.egg-info/top_level.txt
